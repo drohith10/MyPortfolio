@@ -50,35 +50,6 @@ section {
     text-align: center;
 }
 
-#hero {
-  /*  background-image: url('assets/images/hero-bg.jpg');  */
-    background-size: cover;
-    background-position: center;
-    color: white;
-    padding: 100px 20px;
-}
-
-#hero .hero-content h2 {
-    font-size: 2.5em;
-    margin-bottom: 20px;
-}
-
-#hero .hero-content p {
-    font-size: 1.2em;
-    margin-bottom: 30px;
-}
-
-#hero .cta-btn {
-    background-color: #f0a500;
-    color: white;
-    padding: 10px 25px;
-    font-size: 1.2em;
-    border: none;
-    cursor: pointer;
-    text-decoration: none;
-    border-radius: 5px;
-}
-
 #about, #projects, #contact {
     background-color: white;
     border-radius: 8px;
