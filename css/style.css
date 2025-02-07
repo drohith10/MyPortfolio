@@ -430,7 +430,7 @@ header nav ul li a:hover {
         justify-content: center;
         height: 100vh;
         text-align: center;
-        background: url('assets/images/background.jpeg') no-repeat center center/cover;
+        background: url('assets/images/background.jpeg') center center/cover;
         color: #fff;
         padding-top: 50px;
     }
