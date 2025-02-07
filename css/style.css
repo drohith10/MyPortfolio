@@ -51,7 +51,7 @@ section {
 }
 
 #hero {
-    /*background-image: url('assets/images/hero-bg.jpg'); */
+    background-image: url('assets/images/hero-bg.jpg'); 
     background-size: cover;
     background-position: center;
     color: white;
@@ -247,7 +247,7 @@ Education Section
 /* Hero Section */
 #hero {
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), 
-               /* url('assets/images/hero-bg.jpg') center/cover no-repeat; */
+               url('assets/images/hero-bg.jpg') center/cover no-repeat; 
     height: 100vh;
     display: flex;
     align-items: center;
