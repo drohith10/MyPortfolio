@@ -247,7 +247,7 @@ Education Section
 /* Hero Section */
 #hero {
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), 
-                url('../assets/images/hero-bg.jpg') center/cover no-repeat;
+                url('assets/images/hero-bg.jpg') center/cover no-repeat;
     height: 100vh;
     display: flex;
     align-items: center;
@@ -430,7 +430,7 @@ header nav ul li a:hover {
         justify-content: center;
         height: 100vh;
         text-align: center;
-        background: url('D:/Rohith_Portfolio/assets/images/background.jpeg') no-repeat center center/cover;
+        background: url('assets/images/background.jpeg') no-repeat center center/cover;
         color: #fff;
         padding-top: 50px;
     }
